@@ -49,7 +49,7 @@
 
 ## Status
 
-[![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=212121&colorB=611F69)](https://slack.universe.engineering)
+[![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=212121&colorB=7800C4)](https://slack.universe.engineering)
 
 
 ## Description
