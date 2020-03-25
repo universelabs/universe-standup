@@ -49,7 +49,7 @@
 
 ## Status
 
-[![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=212121&colorB=3f46ad)](https://slack.universe.engineering)
+[![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=212121&colorB=611F69)](https://slack.universe.engineering)
 
 
 ## Description
@@ -57,7 +57,3 @@
 Daily Standup (SCRUM) for team & community to post what they are working on. 
 
 Intended to prevent overlap of duties and assist in reaching Sprint goals.
-
-**Tasks**
-1. Post previous day(s) tasks worked on.
-1. Post tasks to be worked on today.
