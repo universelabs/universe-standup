@@ -3,9 +3,7 @@
   <p>
     Universe daily standup for team and community
     <br/>
-    <a href="https://github.com/universelabs/universe-standup/issues?q=is%3Aopen+is%3Aissue"><strong>Current Standup</strong></a>
-    &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-standup/issues?q=is%3Aissue+is%3Aclosed"><strong>Previous Standups</strong></a>
+    <a href="https://github.com/universelabs/universe-standup/issues?q=is%3Aopen+is%3Aissue"><strong>Standup</strong></a>
   </p>
   <p>
     <a href="https://github.com/universelabs/" alt="Explore Universe Labs GitHub">
@@ -50,6 +48,8 @@
 ## Status
 
 [![Universe Community](https://img.shields.io/badge/Universe_Community-Join_the_Slack!-blue.svg?colorA=000000&colorB=7800C4)](https://slack.universe.engineering)
+[![Previous Standups](https://img.shields.io/badge/Standup-Previous-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe-standup/issues?q=is%3Aissue+is%3Aclosed)
+[![Standup](https://img.shields.io/badge/Standup-Latest-blue.svg?colorA=212121&colorB=007BFF)](https://github.com/universelabs/universe-standup/issues?q=is%3Aopen+is%3Aissue)
 
 
 ## Description
