@@ -32,7 +32,7 @@
     </a>
     &nbsp;&middot;&nbsp;
     <a href="/stargazers">
-      <img src="https://img.shields.io/github/stars/universelabs/universe-operations.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
+      <img src="https://img.shields.io/github/stars/universelabs/universe-standup.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
     </a>
   </p>
 </div>
