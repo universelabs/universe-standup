@@ -17,4 +17,3 @@ Intended to prevent overlap of duties and assist in reaching Sprint goals.
 1. Post tasks to be worked on today.
 
 **Reference(s)**
--
